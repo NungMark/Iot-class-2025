@@ -8,41 +8,41 @@
 
 | Title.               | Value                                               |
 | -------------------- | --------------------------------------------------- |
-| Full Name            | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
-| Student ID           | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__ |
-| Raspberry Pi Model   | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\_\_\_\_ |
-| Installation Date    | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\__\_\_\_\_\_\_\_\_\_\_ |
+| Full Name            | Nairn Wichapeng|
+| Student ID           | 6510301047 |
+| Raspberry Pi Model   | 4 |
+| Installation Date    | 25/06/25 |
 
 
 ---
 
 ## 💾 SD Card Preparation
 
-- SD Card Size: ________ GB
-- OS Used: ☐ Raspberry Pi OS Lite ☐ Debian ARM64 ☐ Other: __________
-- Imaging Tool: ☐ Raspberry Pi Imager ☐ Balena Etcher ☐ dd ☐ Other
+- SD Card Size: 32 GB
+- OS Used: ☐ Raspberry Pi OS Lite ✅  Debian ARM64 ☐ Other: __________
+- Imaging Tool: ✅  Raspberry Pi Imager ☐ Balena Etcher ☐ dd ☐ Other
 
 ---
 
 ## 📛 Hostname Configuration
 
-- Hostname: `__________________________________`
+- Hostname: `u6510301047`
 
 ---
 
 ## 🌐 Network Configuration
 
-- Connection Method: ☐ Ethernet ☐ Wi-Fi
+- Connection Method: ☐ Ethernet ✅  Wi-Fi
 - IP Configuration:
   - ☐ DHCP (Automatic)
-  - ☐ Static IP (Manual)
+  - ✅  Static IP (Manual)
 
 ### ✏️ Iืnterfacef Static IP:
 
 | Title        | Value                                               |
 | ------------ | --------------------------------------------------- |
-| IP Address   | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
-| Netmask      | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__ |
-| Gateway      | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\_\_\_\_ |
-| DNS          | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\__\_\_\_\_\_\_\_\_\_\_ |
+| IP Address   | 172.30.15.48                                        |
+| Netmask      | 255.255.255.0                                       |
+| Gateway      | 172.30.15.254                                       |
+| DNS          | 172.16.46.254, 8.8.8.8                              |
 
